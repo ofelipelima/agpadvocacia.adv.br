@@ -686,7 +686,7 @@ body:not(.rtl) .elementor-5993 .elementor-element.elementor-element-4d805d2 .ele
 
 @media(min-width:768px) {
     .elementor-5993 .elementor-element.elementor-element-fe58b22 {
-        width: 55%;
+        width: 70%;
     }
 
     .elementor-5993 .elementor-element.elementor-element-0f22e67 {
@@ -8142,7 +8142,7 @@ body.elementor-page-10970>.elementor-motion-effects-container>.elementor-motion-
 
 .elementor-82 .elementor-element.elementor-element-4e7d176:not(.elementor-motion-effects-element-type-background),
 .elementor-82 .elementor-element.elementor-element-4e7d176>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../upload/vitrine.jpg");
+    background-image: url("../upload/vitrine-rosa-3.png");
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8264,13 +8264,13 @@ body.rtl .elementor-82 .elementor-element.elementor-element-3878d5f {
 }
 
 .elementor-82 .elementor-element.elementor-element-74fe90e>.elementor-element-populated {
-    margin: -20px 0px 0px 0px;
+    margin: -20px 0px 0px 90px;
     padding: 0px 0px 0px 0px;
 }
 
 .elementor-82 .elementor-element.elementor-element-d354897 .elementor-heading-title {
     font-family: "Poppins", Sans-serif;
-    font-size: 52px;
+    font-size: 46px;
     font-weight: 700;
     line-height: 1.2em;
 }
