@@ -90,7 +90,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 	Mensagem: <b>$msg</b><br><br>";
 
 	// agpescritoriodeadvocacia@gmail.com
-	$enviaEmail = enviaEmail($nome,$email,'contato@agpadvocacia.adv.br',utf8_decode($msg),'Contato pelo site AGP Advocacia');
+	$enviaEmail = enviaEmail($nome,$email,'contato@agpadvocacia.adv.br',$msg,'Contato pelo site AGP Advocacia');
 
 	if ( $enviaEmail )
 	{
