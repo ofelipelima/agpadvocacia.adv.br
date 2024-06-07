@@ -1,4 +1,5 @@
 <?php
+header('Content-Type: text/html; charset=utf-8');
 
 if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 {
