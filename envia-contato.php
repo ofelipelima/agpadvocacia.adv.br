@@ -2,6 +2,7 @@
 
 if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 {
+	/*
 	$recaptchaResponse = $_POST['g-recaptcha-response'];
 
 	$secret = '6LdCR9IUAAAAADQhgv_Fhy9HWbLVFQj6G_Qh5NHE';
@@ -40,6 +41,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 			URL='https://agpadvocacia.adv.br/#contato'\">";
 		die();
 	}
+	*/
 
 	function enviaEmail($nome,$de,$para,$mensagem,$assunto)
 	{
