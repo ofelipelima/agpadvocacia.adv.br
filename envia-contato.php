@@ -98,7 +98,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 		echo '<html>
 				<head><title>Sucesso</title></head>
 					<body>
-						<script>alert("Sua mensagem foi enviada.\nRetorno em breve!\nObrigado.")</script>
+						<script>alert("Sua mensagem foi enviada.\nRetornamos em breve!\nObrigado.")</script>
 					</body>
 			  </html>';
 
