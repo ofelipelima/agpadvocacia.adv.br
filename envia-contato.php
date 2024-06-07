@@ -1,5 +1,5 @@
 <?php
-header('Content-Type: text/html; charset=utf-8');
+header('Content-Type: text/html; charset=iso-8859-1');
 
 if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 {
@@ -82,7 +82,7 @@ if ( isset( $_POST['envia'] ) && $_POST['envia'] == 'ok' )
 
 
 
-	$msg = "Olá! Foi enviado um novo contato pelo site AGP Advocacia.<br>
+	$msg = "	Olá! Foi enviado um novo contato pelo site AGP Advocacia.<br>
 	Seguem abaixo os detalhes:<br><br>
 	Enviado pela página: <b>$pagina</b><br>
 	Assunto: <b>$assunto</b><br>
