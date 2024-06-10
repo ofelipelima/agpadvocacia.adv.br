@@ -10339,7 +10339,7 @@ button,
 .woocommerce input.button,
 .pagination span,
 .pagination a:hover {
-    background-color: #1c58f6;
+    background-color: #A48745;
 }
 .pagination span,
 .pagination a:hover,
@@ -10360,11 +10360,11 @@ body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper inp
 .woocommerce a.button,
 .woocommerce button.button,
 .woocommerce input.button {
-    border-color: #1c58f6;
+    border-color: #F3DAD3;
 }
 .comment_box:before,
 .comment_box:after {
-    border-top-color: #1c58f6;
+    border-top-color: #F3DAD3;
 }
 .button.ghost,
 .button.ghost:hover,
@@ -10376,7 +10376,7 @@ body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .form-wrapp
 body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .form-wrapper input[type="submit"],
 #page-content-wrapper .inner .sidebar-wrapper .sidebar-widget li.widget_recent_comments ul li.recentcomments a:not(.url),
 .woocommerce-page .price_slider_amount .price_label {
-    color: #1c58f6;
+    color: #F3DAD3;
 }
 input[type="submit"],
 input[type="button"],
@@ -10430,7 +10430,7 @@ button,
 .woocommerce input.button,
 .pagination span,
 .pagination a:hover {
-    color: #ffffff;
+    color: #FFFFFF;
 }
 input[type="submit"],
 input[type="button"],
@@ -10462,10 +10462,10 @@ button,
 .woocommerce a.button,
 .woocommerce button.button,
 .woocommerce input.button {
-    border-color: #1c58f6;
+    border-color: #F3DAD3;
 }
 #wp-calendar tbody td#today {
-    border-bottom-color: #1c58f6;
+    border-bottom-color: #F3DAD3;
 }
 input[type="button"]:hover,
 input[type="submit"]:hover,
@@ -10489,7 +10489,7 @@ a.button.white:active,
 .woocommerce button.button:hover,
 .woocommerce input.button:hover,
 #woocommerce-mini-cart-flyout .woocommerce-mini-cart__buttons a:not(.checkout) {
-    background-color: #1c58f6;
+    background-color: #F3DAD3;
 }
 input[type="button"]:hover,
 input[type="submit"]:hover,
@@ -10514,7 +10514,7 @@ button:hover,
 .woocommerce button.button:hover,
 .woocommerce input.button:hover,
 #woocommerce-mini-cart-flyout .woocommerce-mini-cart__buttons a:not(.checkout) {
-    color: #ffffff;
+    color: #A48745;
 }
 input[type="button"]:hover,
 input[type="submit"]:hover,
@@ -10538,7 +10538,7 @@ button:hover,
 .woocommerce button.button:hover,
 .woocommerce input.button:hover,
 #woocommerce-mini-cart-flyout .woocommerce-mini-cart__buttons a:not(.checkout) {
-    border-color: #1c58f6;
+    border-color: #A48745;
 }
 .frame_top,
 .frame_bottom,
@@ -10603,7 +10603,7 @@ html {
     border-color: #ffffff;
 }
 .menu-cart-wrapper .cart-counter {
-    background-color: #1c58f6;
+    background-color: #F3DAD3;
     color: #ffffff;
 }
 #menu-wrapper .nav ul li ul li a,
@@ -11065,8 +11065,8 @@ p.price ins span.amount,
 .forms-input input[type="submit"]{
 	margin-top: 20px;
     color: #fff;
-    background: #1C58F6;
-    border: 1px solid #1C58F6;
+    background: #F3DAD3;
+    border: 1px solid #F3DAD3;
 
 }
 

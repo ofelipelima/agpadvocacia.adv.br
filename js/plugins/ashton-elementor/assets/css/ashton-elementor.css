@@ -14769,7 +14769,7 @@ display: inline-block;
   transform: scaleX(0);
   transition: transform .6s cubic-bezier(.075,.82,.165,1);
   transform-origin: center right;
-  background: #1C58F6;
+  background: #F3DAD3;
   border-radius: 5px;
 }
 
